@@ -1,0 +1,12 @@
+def print_item(item):
+    print(item['name'])
+    print(item['level'])
+    print(item['url'])
+    print(item['comment_num'])
+    print(item['avg_cost'])
+    print(item['taste'])
+    print(item['environment'])
+    print(item['service'])
+    print(item['food_type'])
+    print(item['location'])
+    print()
